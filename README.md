@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ken, an <a href="https://www.linkedin.com/in/Ken8675309">IT Professional</a>☺</h1>
+<h1>Hello, I'm Ken, an <a href="https://www.linkedin.com/in/Ken8675309">IT Professional</a>😎</h1>
 <h2>My IT Projects 👀:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
