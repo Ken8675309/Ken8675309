@@ -1,4 +1,3 @@
-![Background image](https://github.com/Ken8675309/Ken8675309/assets/130803196/e067c3c8-6db6-44b5-af77-fd7aaea4ec84)
 <h1>Hello, I'm Ken, an <a href="https://www.linkedin.com/in/Ken8675309">IT Professional</a>😎</h1>
 <h2>My IT Projects 👀:</h2>
 
@@ -17,3 +16,4 @@
 
 [twitter]: https://twitter.com/Ken8675309
 [linkedin]: https://linkedin.com/in/Ken8675309
+![Background image](https://github.com/Ken8675309/Ken8675309/assets/130803196/e067c3c8-6db6-44b5-af77-fd7aaea4ec84)
