@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a>
+<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a> ![PiratesOfGIF (2)](https://github.com/user-attachments/assets/4d034dd6-1faf-4a61-8571-74687c74d7d7)
 </h1>
 <h2>My IT Projects 👀:</h2>
 
@@ -18,3 +18,4 @@
 [twitter]: https://twitter.com/Ken8675309
 [linkedin]: https://linkedin.com/in/Ken8675309
 ![Background image](https://github.com/Ken8675309/Ken8675309/assets/130803196/e067c3c8-6db6-44b5-af77-fd7aaea4ec84)
+
