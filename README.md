@@ -1,6 +1,7 @@
-<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a>🤖
+<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a>🤖![Background image](https://github.com/user-attachments/assets/46aad85d-0f09-4af8-a9d6-5691e77e6089)
+
 </h1>
-<h2>My IT Projects 👀:</h2>
+<h2>My Projects 👀:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Ken8675309/osticket-prereqs)
