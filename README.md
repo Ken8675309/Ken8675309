@@ -1,5 +1,4 @@
-<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a>startlxde
-!()
+<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a>
 </h1>
 <h2>My IT Projects 👀:</h2>
 
