@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a>![Alt text](https://github.com/user-attachments/assets/4d034dd6-1faf-4a61-8571-74687c74d7d7)
+<h1>Hello, I'm Ken, a <a href="https://www.linkedin.com/in/Ken8675309">Jack of all Tech</a>🤖
 </h1>
 <h2>My IT Projects 👀:</h2>
 
