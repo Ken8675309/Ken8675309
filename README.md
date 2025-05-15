@@ -28,6 +28,8 @@
 ## 👇🏻 Socialz
 
 [![X (Twitter)](https://img.shields.io/badge/X-@Ken8675309-000000?style=flat&logo=twitter)](https://x.com/Ken8675309)
+[![Join Discord](https://img.shields.io/badge/Join%20Us-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-notfinished,com-black?style=flat&logo=bitcoin)](https://notfinished,com)
 
 ---
 
