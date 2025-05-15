@@ -31,10 +31,6 @@
 
 ---
 
-![Hodl Meme](https://github.com/user-attachments/assets/1e5b4825-f3a9-464c-a62b-cd62eb99e36f)
-
----
-
 ## 📜 Current Focus
 - 🔥 Launching a meme project with real utility
 - 📈 Building a decentralized trading swarm
