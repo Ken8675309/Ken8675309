@@ -1,18 +1,68 @@
-<h1>Hello, I'm Ken, a <a href="https://x.com/Ken8675309">KOL of *NFA</a>🤑!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ken8675309/Ken8675309/main/banner.png" alt="Ken Banner" />
+</p>
+
+<h1 align="center">
+  Hello, I'm <a href="https://x.com/Ken8675309">Ken</a>, a KOL of *NFA 🤑
 </h1>
-<h2>My Projectz 👀:</h2>
 
-- <b>Building a Tech Dynasty</b>
-  - Startin' wit no doe
-  - The struggle is real
-  - Haters gonna hate
-- <b>Crypto Degenery</b>
-  - Creatin' a community for the community
-  - No Cabals
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ken8675309&label=Profile%20Views&color=blueviolet&style=flat" alt="Ken8675309" />
+</p>
 
-<h2>👇🏻Socialz👇🏻</h2>
-  
-  [<img width="12" alt="X Logo" src="https://github.com/user-attachments/assets/65fbec7e-af92-400c-b4a8-2ab4afc36b41" />](https://x.com/Ken8675309)
-  
-  ![HodlMemeGIF](https://github.com/user-attachments/assets/1e5b4825-f3a9-464c-a62b-cd62eb99e36f)
+---
 
+## ⚙️ My Projectz 👀
+
+### 🏗️ Building a Tech Dynasty
+- Startin' wit no doe
+- The struggle is real
+- Haters gonna hate
+
+### 🧪 Crypto Degenery
+- Creatin' a community for the community
+- No Cabals allowed 😤
+
+---
+
+## 👇🏻 Socialz
+
+[![X (Twitter)](https://img.shields.io/badge/X-@Ken8675309-000000?style=flat&logo=twitter)](https://x.com/Ken8675309)
+
+---
+
+![Hodl Meme](https://github.com/user-attachments/assets/1e5b4825-f3a9-464c-a62b-cd62eb99e36f)
+
+---
+
+## 📜 Current Focus
+- 🔥 Launching a meme project with real utility
+- 📈 Building a decentralized trading swarm
+- 🧠 Exploring AI-powered alpha
+
+## 🧰 Tech Stack / Skills
+- Python, Bash, Solidity
+- Pine Script, Docker, WSL
+- LLMs, Web3, VR Dev, and Chaos
+
+## 🎯 Goals
+- Take over the world (non-cabal style)
+- Educate frens
+- Stack Sats. Burn Rugs. 🧨
+
+---
+
+## 📊 GitHub Stats
+
+![Ken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ken8675309&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ken8675309&layout=compact&theme=radical)
+
+---
+
+## 🏷️ Badges of Degen Honor
+
+![Meme Tech](https://img.shields.io/badge/Meme%20Tech-Degen%20Coder-yellow)
+![Stack Sats](https://img.shields.io/badge/Stacking-Sats-orange)
+![Cabals Suck](https://img.shields.io/badge/Anti-Cabal-black)
+![VR Dev](https://img.shields.io/badge/VR-Builder-informational)
+![AI Swarm](https://img.shields.io/badge/AI-Fusion%20Brain-blueviolet)
